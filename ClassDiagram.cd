@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OBJ2D" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIAABAAAAKAIAACAAAAAgKAAAAAAAAAAAA=</HashCode>
+      <FileName>Obj2d.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAIAAAAAAAAAAAIAEAAAAAAEAAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneClear" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>SceneClear.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneGame" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAEAAAAAAEAAA=</HashCode>
+      <FileName>SceneGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneOver" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>SceneOver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneTitle" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>SceneTitle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DepthStencil" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAARAAAAAQBBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLib\depth_stencil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VECTOR2" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAgAAEAAAA=</HashCode>
+      <FileName>GameLib\vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VECTOR3" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAQAAAAAAAAAAAAAggAAAAAA=</HashCode>
+      <FileName>GameLib\vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VECTOR4" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>GameLib\vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::Blender" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAABEAAAAAAAAAAA=</HashCode>
+      <FileName>GameLib\blender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::Debug" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAIAAAAAAAABAAAEAAAAAAAAAQQAABAA=</HashCode>
+      <FileName>GameLib\debug.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::FontManager" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAEAAAAAAAAAAAAAAAAAAAIYAQAAgAAAAAA=</HashCode>
+      <FileName>GameLib\font.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::HighResolutionTimer" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIBAAAAEAAEAAAAiAAgAggAAIAsgAAAAABAAAAAAIAA=</HashCode>
+      <FileName>GameLib\high_resolution_timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::PadState" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEAAAAAAAAAhAAAAAACAIAgAEAAAAAAACgCA=</HashCode>
+      <FileName>GameLib\input_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::InputManager" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAAAAQAAAGAAAACAAAAAAAAMAAAAAIAEEQAI=</HashCode>
+      <FileName>GameLib\input_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::benchmark" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAAAAAAAAAAgAEEAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLib\misc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::Primitive" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAADAIAAAAAAEAAAKAAAAAAAAAACIQBAAIAABAE=</HashCode>
+      <FileName>GameLib\primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::PrimitiveBatch" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAADAACgAAAAFAAAYAAQAABACAQCIABAAAAABAA=</HashCode>
+      <FileName>GameLib\primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::ResourceManager" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAAAAAEAiAEAAAAAAACAMAAAAAAAAIBAQ=</HashCode>
+      <FileName>GameLib\resource_manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::Sprite" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIMAAAAAQEAAAAAAAACIABAASIQBAAAAQBAI=</HashCode>
+      <FileName>GameLib\sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::SpriteBatch" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAgAAAQFAAAQAAQACJAAAQCYQBEAAAQBAA=</HashCode>
+      <FileName>GameLib\sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::Texture" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAIAAgAAAAAIAAAAQAAAAAAABAAIAAAAAQAA=</HashCode>
+      <FileName>GameLib\texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::TextureManager" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAIEAAAAABAIAAAAQhAAAAgIIAAAACAAAAAA=</HashCode>
+      <FileName>GameLib\texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::ViewSettings" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIEgAAwZAAAAAAgEgQACCgEgAIoAAEAAEAAAAAAQ=</HashCode>
+      <FileName>GameLib\view_settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLib::audio::DXTKAudio" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAGAEADABBDACAEABAEEAAWEAJABKgAJAAEACA=</HashCode>
+      <FileName>GameLib\dxtk_audio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SpriteUpperLeft" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpriteData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SpriteCenter" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpriteData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::LoadFont" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>GameLib\font.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::PadAssign" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLib\input_manager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::SpriteData" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAQAQAIAABgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameLib\obj2d_data.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::AnimeData" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>GameLib\obj2d_data.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::Anime" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAIAAAQAAAAA=</HashCode>
+      <FileName>GameLib\obj2d_data.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::fRECT" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>GameLib\obj2d_data.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::LoadTexture" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>GameLib\texture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameLib::Members" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAGCBAACAAAEABQAUACAAAAIAAAAAIAgEggAAAkAAAA=</HashCode>
+      <FileName>GameLib\game_lib.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="TEXNO" Collapsed="true">
+    <Position X="15.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpriteData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SCENE" Collapsed="true">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAEAAAgAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>WinMain.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameLib::FONTNO" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAACAAAAAACAQABAAAAAAAAgEAA=</HashCode>
+      <FileName>GameLib\font.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameLib::TEXT_ALIGN" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgQAAAAAIAAAIABAAAAAAABBAAAAAAAAAAAgA=</HashCode>
+      <FileName>GameLib\sprite.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameLib::input::GamePad" Collapsed="true">
+    <Position X="11.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAgAAAQAAAAEAAAICAAAiQAAAIAkAYAA=</HashCode>
+      <FileName>GameLib\input_manager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
